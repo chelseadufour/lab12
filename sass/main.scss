@@ -1,0 +1,62 @@
+#header {
+  h1 {
+    font-weight: bold;
+    text-align: center;
+  }
+  ul {
+    list-style-type: none;
+    text-align: center;
+  }
+}
+
+#photo1 {
+  height: 50%;
+  width: 50%;
+
+}
+#photo2 {
+  height: 90%;
+  width: 90%;
+  transform:rotate(90deg);
+
+ }
+#photo3 {
+  height: 75%;
+  width: 75%;
+  transform: rotate(90deg);
+  }
+#photo4 {
+  height: 50%;
+  width: 50%;
+  transform: rotate(90deg);
+}
+#photo5 {
+  height: 80%;
+  width: 80%;
+  transform: rotate(90deg);
+}
+#photo6{
+  height: 90%;
+  width: 90%;
+  transform: rotate(90deg);
+}
+#photo7 {
+  height: 80%;
+  width: 80%;
+  transform: rotate(90deg);
+}
+#photo8 {
+  height: 50%;
+  width: 50%;
+  transform: rotate(90deg);
+}
+#photo9 {
+  height: 75%;
+  width: 75%;
+  transform: rotate(90deg);
+}
+.container {
+  text-align: center;
+  padding: 2%;
+  margin: 2%;
+}
